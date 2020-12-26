@@ -99,4 +99,4 @@ client.on('message', async message => {
 
 //260163449517113346
 
-client.login('NjQ4OTYxNTI5MzQxMDE4MTYy.Xd12hQ.LEk-CRM9NrXBHYty40zdi-TF5AA');
+client.login('');
